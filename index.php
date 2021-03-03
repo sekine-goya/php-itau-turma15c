@@ -21,3 +21,8 @@
 <h3>
   Guilherme Forte
 </h3>
+
+<h3>
+  Vanessa B Goya
+</h3>
+
